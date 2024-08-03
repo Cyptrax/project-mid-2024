@@ -1,0 +1,25 @@
+producent;serie;type;aantal_pinnen;vcc;voorraad_aantal;eenheidsprijs
+Futurlec;74HC;"74HC00 Quad 2-input NAND Gate";14;5;32;0.25
+Futurlec;74HC;"74HC02 Quad 2-input NOR Gate";14;5;36;0.20
+Futurlec;74HC;"74HC04 Hex Inverter";14;5;43;0.25
+Futurlec;74HC;"74HC08 Quad 2-input AND Gate";14;5;4;0.20
+Futurlec;74HC;"74HC74 Dual D Flip-Flop";14;5;32;0.30
+Futurlec;74HC;"74HC75 Quad BiStable Transparent Latch";16;5;38;0.50
+Futurlec;74HC;"74HC85 4-bit Magnitude Comparator";16;5;17;0.55
+Futurlec;74HC;"74HC139 2 to 4 Decoder/Demultiplexer";16;5;42;0.35
+Futurlec;74HC;"74HC148 8 to 3 Line Priority Decoder";16;5;24;0.25
+Futurlec;74HC;"74HC157 Quad 2-input Data Multiplexers";16;5;9;0.25
+Futurlec;74HC;"74HC160 Decade Counter with Asynchronous Clear";16;5;31;0.42
+Futurlec;74HC;"74HC161 Synchronous 4-bit Counter";16;5;29;0.32
+Futurlec;74HC;"74HC238 3 to 8 Line Decoder/Demultiplexer";16;5;17;0.50
+Futurlec;74HC;"74HC257 Quad 2-Input Data Selector/Multiplexer";16;5;24;0.30
+Futurlec;74HC;"74HC240 Octal Inverter Line Driver Tri-State";20;5;42;0.45
+Futurlec;74HC;"74HC244 Octal Driver Tri-State";20;5;15;0.40
+Futurlec;74HC;"74HC245 Octal Bus Transceiver Tri-State";20;5;26;0.40
+Futurlec;74HC;"74HC273 Octal D-type Flip-Flop with Clear";20;5;33;0.65
+Futurlec;74HC;"74HC299 8-bit Universal Shift Register";20;5;42;0.85
+Futurlec;74HC;"74HC373 Octal D Flip-Flop Tri-State";20;5;23;0.40
+Futurlec;74HC;"74HC645 Octal Bus Transceiver Tri-State";20;5;39;1.30
+Futurlec;74HC;"74HC688 8-bit Magnitude Comparator";20;5;41;0.65
+Futurlec;74HC;"74HC154 4 to 16 Line Decoder/Demultiplexer";24;5;11;1.45
+Futurlec;74HC;"74HC4067 16-Channel Analog Multiplexer";24;5;9;1.40
